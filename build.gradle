@@ -28,7 +28,7 @@ docker {
 
 task updateUpstreamDebianImage(type: DockerPullImage) {
     repository = 'debian'
-    tag = 'jessie'
+    tag = 'stretch'
 }
 
 task buildImage(type: DockerBuildImage) {

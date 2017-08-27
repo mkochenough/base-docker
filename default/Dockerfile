@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:stretch
 MAINTAINER Michael Koch <michael.koch@enough.de>
 
 ENV DEBIAN_FRONTEND=noninteractive

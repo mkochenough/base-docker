@@ -1,6 +1,6 @@
 # base-docker
 
-Docker container images serving as base images for all my other images. Currently the base images are based on Debian Jessie image.
+Docker container images serving as base images for all my other images. Currently the base images are based on Debian Stretch image.
 
 ## Building
 
